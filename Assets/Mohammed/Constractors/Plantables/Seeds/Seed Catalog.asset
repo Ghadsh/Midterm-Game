@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 381a0172bfaa15045b1979e2cde1335a, type: 3}
+  m_Name: Seed Catalog
+  m_EditorClassIdentifier: 
+  entries:
+  - seedItem: {fileID: 11400000, guid: 5c5081e5a827ba74b90a4d087ad8e9b1, type: 2}
+    crop: {fileID: 11400000, guid: 505d1c9b6e850ab4ea71fd7f3fa493e0, type: 2}

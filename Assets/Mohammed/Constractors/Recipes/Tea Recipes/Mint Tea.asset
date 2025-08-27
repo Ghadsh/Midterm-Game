@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b8caf2752862484988153d8545c0631, type: 3}
+  m_Name: Mint Tea
+  m_EditorClassIdentifier: 
+  baseItem: {fileID: 11400000, guid: 16aad9e1043ef1c48aa8f1e6c43fcc2e, type: 2}
+  mods:
+  - item: {fileID: 11400000, guid: 50d61cf0fd99d42418ef7086460a257d, type: 2}
+    count: 1
+  resultItem: {fileID: 11400000, guid: 97128298676d8574bbcb73cf6daaeccd, type: 2}
+  resultCount: 1
+  brewSeconds: 5
